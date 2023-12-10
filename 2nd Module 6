@@ -1,0 +1,21 @@
+// 1 = Rock 2 = Paper 3 = Scissors
+
+// userChoice = imput(Choose Rock, Paper, or Scissors)
+// computerChoice = random.choice(options)
+
+Put "Rock, Paper, Scissors" to output
+
+//if userChoice == computerChoice
+// print (it's a tie!)
+
+// elif userChoice == Rock and computerChoice == Scissors
+// print (You win!)
+
+// elif userChoice == Paper and computerChoice == Rock
+// print(You win!)
+
+// elif userChoice == Scissors and computerChoice == Paper
+// print(You win!)
+
+// else 
+// print (computer wins!)
